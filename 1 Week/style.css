@@ -59,3 +59,27 @@
   /* background-position: 100% 100%; */
   background-size: cover;
 }
+.assign-3-shape-1 {
+  background-color: gray;
+  color: wheat;
+  padding: 30px;
+  margin: auto;
+  border: solid 5px red;
+  outline: solid 10px black;
+}
+.assign-3-shape-2 {
+  background-color: gray;
+  color: wheat;
+  padding: 30px;
+  margin: auto;
+  border: solid blue green 5px;
+  outline: solid 10px black;
+}
+.assign-3-shape-3 {
+  background-color: gray;
+  color: wheat;
+  padding: 30px;
+  margin: auto;
+  border: dashed red  green blue yellow 5px;
+  outline: solid 10px black;
+}
