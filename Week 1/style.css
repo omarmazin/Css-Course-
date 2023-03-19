@@ -72,7 +72,8 @@
   color: wheat;
   padding: 30px;
   margin: auto;
-  border: solid blue green 5px;
+  border: solid  5px;
+  border-color: blue green;
   outline: solid 10px black;
 }
 .assign-3-shape-3 {
@@ -80,6 +81,7 @@
   color: wheat;
   padding: 30px;
   margin: auto;
-  border: dashed red  green blue yellow 5px;
+  border: dashed 5px;
+  border-color:  red  green blue yellow;
   outline: solid 10px black;
 }
