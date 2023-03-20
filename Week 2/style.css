@@ -1,0 +1,23 @@
+.parent .child .title{
+    color: red;
+}
+.parent  .title {
+    color: blue;
+}
+/* div p {
+    color: green;
+}
+.title{
+    color: green;
+} */
+div p ,.title{color: green;}
+
+.assignment2{
+    background-color: red;
+    width: 90%;
+    height: 30px;
+    padding: 15px;
+    margin: auto;
+    /* color: bla; */
+    overflow: hidden;
+}
