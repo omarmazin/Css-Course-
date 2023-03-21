@@ -1,3 +1,6 @@
+*{
+    margin-bottom: 50px;
+}
 .parent .child .title{
     color: red;
 }
@@ -20,4 +23,41 @@ div p ,.title{color: green;}
     margin: auto;
     /* color: bla; */
     overflow: hidden;
+}
+
+.shadow{
+    text-shadow: 2px 2px red,3px 3px blue,4px 4px blueviolet  ;
+
+}
+.one{
+    text-transform:uppercase;
+}
+.two{
+    text-transform: capitalize;
+}
+.three{
+    text-transform: lowercase;
+}
+.lor{
+    width: 30%;
+    height: 20px;
+    background-color: rgb(194, 194, 194);
+    padding: 20px  ;
+    margin: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+a{
+    margin: auto;
+    width: 50px;
+    height:50px;
+    padding: 50px;
+    color: white;
+    text-decoration: none;
+    background-color: aqua;
+    border-bottom: solid 20px rgb(16, 196, 196);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: cursive;
 }
