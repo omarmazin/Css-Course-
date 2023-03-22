@@ -1,0 +1,17 @@
+div{
+    padding: 20px;
+    text-align: center;
+    border: solid orangered 3px;
+    /* background-color: #EEe; */
+}
+div h2{
+    padding: inherit;
+    border: inherit;
+    background-color: #eee;
+}
+div p {
+    padding: inherit;
+    border: inherit;
+    background-color: inherit;
+    background-color: #eee;
+}
